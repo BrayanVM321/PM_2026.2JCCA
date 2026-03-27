@@ -5,6 +5,8 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
+//Brayan Velazco Martinez
+
 public class Fred extends JFrame {
 
     JButton[] casillas = new JButton[4];
