@@ -1,0 +1,9 @@
+<resources>
+    <color name="blue_button">#1976D2</color>
+    <color name="blue_button_pressed">#1258A4</color>
+    <color name="red_button">#D32F2F</color>
+    <color name="red_button_pressed">#A82424</color>
+    <color name="screen_background">#F7FAFE</color>
+    <color name="text_primary">#102033</color>
+    <color name="text_secondary">#516172</color>
+</resources>

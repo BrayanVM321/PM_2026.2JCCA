@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Silabas Directas</string>
+    <string name="credits_title">Créditos</string>
+    <string name="credits_professor">Profesor: Juan Carlos Camacho Alvarez</string>
+    <string name="credits_group">Grupo: 2858</string>
+    <string name="credits_subject">Materia: Programación móvil</string>
+    <string name="credits_school">UNAM FES Aragón</string>
+    <string name="credits_student">Alumno desarrollador: Brayan Velazco Martinez</string>
+</resources>

@@ -1,0 +1,23 @@
+com.example.proyectofinal
+color blue_button
+color blue_button_pressed
+color red_button
+color red_button_pressed
+color screen_background
+color text_primary
+color text_secondary
+drawable ic_launcher
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string credits_group
+string credits_professor
+string credits_school
+string credits_student
+string credits_subject
+string credits_title
+style Theme_ProyectoFinal
+xml backup_rules
+xml data_extraction_rules

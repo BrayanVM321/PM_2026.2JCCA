@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_button">#1976D2</color>
+    <color name="blue_button_pressed">#1258A4</color>
+    <color name="red_button">#D32F2F</color>
+    <color name="red_button_pressed">#A82424</color>
+    <color name="screen_background">#F7FAFE</color>
+    <color name="text_primary">#102033</color>
+    <color name="text_secondary">#516172</color>
+    <string name="app_name">Silabas Directas</string>
+    <string name="credits_group">Grupo: 2858</string>
+    <string name="credits_professor">Profesor: Juan Carlos Camacho Alvarez</string>
+    <string name="credits_school">UNAM FES Aragón</string>
+    <string name="credits_student">Alumno desarrollador: Brayan Velazco Martinez</string>
+    <string name="credits_subject">Materia: Programación móvil</string>
+    <string name="credits_title">Créditos</string>
+    <style name="Theme.ProyectoFinal" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/screen_background</item>
+        <item name="android:navigationBarColor">@color/screen_background</item>
+        <item name="colorAccent">@color/blue_button</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
